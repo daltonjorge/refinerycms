@@ -1,4 +1,4 @@
-# Refinery CMS
+### Refinery CMS
 
 __An open source Ruby on Rails content management system for Rails 3.__
 
@@ -6,35 +6,35 @@ Refinery also supports Rails 2.x using the [Rails 2.x stable branch](http://gith
 
 ![Refinery Dashboard](http://refinerycms.com/system/images/0000/0576/dashboard.png)
 
-Wanna see Refinery for yourself? [Try the demo](http://demo.refinerycms.com/refinery)
+Wanna see Refinery for yourself ? [Try the demo](http://demo.refinerycms.com/refinery)
 
-## What's it good at?
+### What's it good at?
 
 __Refinery is great for sites where the client needs to be able to update their website themselves__ without being bombarded with anything too complicated.
 
 Unlike other content managers, Refinery is truly __aimed at the end user__ making it easy for them to pick up and make changes themselves.
 
-### For developers
+### For developers :
 
 * Easily customise the look to suit the business.
 * __[Extend with custom engines](http://github.com/resolve/refinerycms/blob/master/vendor/refinerycms/core/engines.md#readme)__ to do anything Refinery doesn't do out of the box.
-* Sticks to __"the Rails way"__ as much as possible; we don't force you to learn new templating languages.
+* Sticks to __"the Rails way"__ as much as possible ; we don't force you to learn new templating languages.
 * Uses [jQuery](http://jquery.com/) for fast and concise Javascript.
 
-## Requirements
+### Requirements :
 
 * [Bundler](http://github.com/carlhuda/bundler)
 * [RMagick](http://github.com/rmagick/rmagick) - [Install docs](http://rmagick.rubyforge.org/install-faq.html) or for
 Mac OS 10.5+ users [this shell install script](http://github.com/maddox/magick-installer) will be easier.
 
-## How to
+### How to
 
 * __[Install Refinery](http://tutorials.refinerycms.org/tutorials/how-to-install-refinery)__
 * [Update Refinery to the latest version](http://tutorials.refinerycms.org/tutorials/how-to-update-refinery-to-the-latest-version)
 * [Install Refinery on Heroku](http://tutorials.refinerycms.org/tutorials/how-to-install-refinery-on-heroku)
 * [Run the Refinery test suite](http://tutorials.refinerycms.org/tutorials/how-to-test-refinery)
 
-## Help and Documentation
+### Help and Documentation
 
 * [Tutorial Site](http://tutorials.refinerycms.org)
 * [Google Group Discussion](http://group.refinerycms.org)
@@ -42,7 +42,7 @@ Mac OS 10.5+ users [this shell install script](http://github.com/maddox/magick-i
 * [GitHub repository](http://github.com/resolve/refinerycms)
 * [Developer/API documentation](http://api.refinerycms.org)
 
-## Features
+### Features
 
 ### [Pages](http://github.com/resolve/refinerycms/blob/master/vendor/refinerycms/pages/readme.md#readme)
 
@@ -81,7 +81,7 @@ Mac OS 10.5+ users [this shell install script](http://github.com/maddox/magick-i
 
 Extend Refinery easily by running the Refinery engine generator
 
-    rails generate refinery_engine
+        rails generate refinery_engine
 
 to get help on how to use that. Or read the full documentation on [writing engines for Refinery](http://github.com/resolve/refinerycms/blob/master/vendor/refinerycms/core/engines.md#readme)
 
@@ -92,6 +92,6 @@ to get help on how to use that. Or read the full documentation on [writing engin
 
 [Full engine list here](http://github.com/resolve/refinerycms/wiki/engines)
 
-## License
+### License
 
 Refinery is released under the [MIT license](http://github.com/resolve/refinerycms/blob/master/license.md#readme) and is copyright (c) 2005-2010 [Resolve Digital Ltd.](http://www.resolvedigital.co.nz)
