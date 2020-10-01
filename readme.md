@@ -1,3 +1,4 @@
+Helpful
 # Refinery CMS
 
 __An open source Ruby on Rails content management system for Rails 3.__
