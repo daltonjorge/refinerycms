@@ -8,7 +8,7 @@ Refinery also supports Rails 2.x using the [Rails 2.x stable branch](http://gith
 
 Wanna see Refinery for yourself? [Try the demo](http://demo.refinerycms.com/refinery)
 
-## What's it good at?
+## What is it good at?
 
 __Refinery is great for sites where the client needs to be able to update their website themselves__ without being bombarded with anything too complicated.
 
@@ -27,7 +27,7 @@ Unlike other content managers, Refinery is truly __aimed at the end user__ makin
 * [RMagick](http://github.com/rmagick/rmagick) - [Install docs](http://rmagick.rubyforge.org/install-faq.html) or for
 Mac OS 10.5+ users [this shell install script](http://github.com/maddox/magick-installer) will be easier.
 
-## How to
+## How to install and update Refinery
 
 * __[Install Refinery](http://tutorials.refinerycms.org/tutorials/how-to-install-refinery)__
 * [Update Refinery to the latest version](http://tutorials.refinerycms.org/tutorials/how-to-update-refinery-to-the-latest-version)
@@ -69,7 +69,7 @@ Mac OS 10.5+ users [this shell install script](http://github.com/maddox/magick-i
 
 ### [Dashboard](http://github.com/resolve/refinerycms/blob/master/vendor/refinerycms/dashboard/readme.md#readme)
 
-* Get an overview of what has been updated recently and see recent inquiries.
+* Get an overview of what is been updated recently and see recent inquiries.
 
 ### [Authentication & Users](http://github.com/resolve/refinerycms/blob/master/vendor/refinerycms/authentication/readme.md#readme)
 
@@ -83,7 +83,7 @@ Extend Refinery easily by running the Refinery engine generator
 
     rails generate refinery_engine
 
-to get help on how to use that. Or read the full documentation on [writing engines for Refinery](http://github.com/resolve/refinerycms/blob/master/vendor/refinerycms/core/engines.md#readme)
+to get help on how to use that Or read the full documentation on [writing engines for Refinery](http://github.com/resolve/refinerycms/blob/master/vendor/refinerycms/core/engines.md#readme)
 
 ### Popular Engines
 
