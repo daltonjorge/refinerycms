@@ -2,7 +2,7 @@
 
 ## Solid Test Coverage
 
-* Add Cucumber for the whole of Refinery. (top priority)
+* Add Cucumber for the whole of Refinery. (Top priority)
 * Add RSpec for the whole of Refinery, particularly:
   - User, User plugin and User mailer
   - Inquiry mailer and Inquiry setting
